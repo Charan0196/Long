@@ -1,0 +1,2 @@
+# Standard library is utilized for core execution
+pytest>=8.0.0

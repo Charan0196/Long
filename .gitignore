@@ -1,0 +1,7 @@
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+.pytest_cache/
+eval_out/
+jobs/
+.venv/
